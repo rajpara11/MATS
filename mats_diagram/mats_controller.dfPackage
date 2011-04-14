@@ -1,0 +1,133 @@
+package id9wy9fehuvfdrfehuvkci;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+@__hiddenLink MemberLink#<oiref:java#Member#mats_model.MATSModel#projectFolder:oiref>
+@__hiddenLink MemberLink#<oiref:java#Member#mats_model.MATSModel#tempMatsProjectCollection:oiref>
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#mats_controller.MATSController:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSModel:oiref><oihard>
+@__modelType reference 
+*/
+class reference29 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSTaskState:oiref><oihard>
+@__modelType reference 
+*/
+class reference30 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSTask:oiref><oihard>
+@__modelType reference 
+*/
+class reference31 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSProjectCollection:oiref><oihard>
+@__modelType reference 
+*/
+class reference32 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSSubproject:oiref><oihard>
+@__modelType reference 
+*/
+class reference33 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.ModelListener:oiref><oihard>
+@__modelType reference 
+*/
+class reference34 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSUser:oiref><oihard>
+@__modelType reference 
+*/
+class reference35 {
+}
+/**
+@__ref <oiref:java#Class#mats_view.TreeNode:oiref><oihard>
+@__modelType reference 
+*/
+class reference36 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.ModelEvent:oiref><oihard>
+@__modelType reference 
+*/
+class reference37 {
+}
+/**
+@__ref <oiref:java#Class#mats_view.MATSView:oiref><oihard>
+@__modelType reference 
+*/
+class reference38 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSUserDatabase:oiref><oihard>
+@__modelType reference 
+*/
+class reference39 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSComponent:oiref><oihard>
+@__modelType reference 
+*/
+class reference40 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Class#mats_model.MATSUserDatabase:oiref>=490,2610,136,213,1:oigroup>
+<oigroup:<oiref:java#Class#mats_controller.MATSController:oiref>=940,1790,177,526,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSTask#currentState:oiref>=124,2684,124,2730:oigroup>
+<oigroup:<oiref:java#Class#mats_view.TreeNode:oiref>=570,1850,165,190,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSModel#projectFolder:oiref>=720,2246,540,2246:oigroup>
+<oigroup:<oiref:java#Class#mats_model.MATSTaskState:oiref>=50,2730,154,254,1:oigroup>
+<oigroup:<oiref:java#Class#mats_model.ModelListener:oiref>=1390,1960,200,341,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSModel#userDatabase:oiref>=720,2681,626,2681:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSTask#creator:oiref>=199,2670,420,2670,420,2890:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSModel#tempMatsProjectCollection:oiref>=720,2233,540,2233:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSProjectCollection#lnkMATSSubproject:oiref>=340,2230,300,2230,300,2400:oigroup>
+<oigroup:<oiref:java#Class#mats_model.MATSComponent:oiref>=80,2100,165,165,1:oigroup>
+<oigroup:<oiref:java#Class#mats_model.MATSProjectCollection:oiref>=340,2090,200,197,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSModel#lnkMATSProjectCollection:oiref>=720,2253,540,2253:oigroup>
+<oigroup:<oiref:java#Implements#mats_view.MATSView#mats_model.ModelListener:oiref>=1370,1840,1470,1840,1470,1960:oigroup>
+<oigroup:<oiref:java#Class#mats_model.MATSUser:oiref>=350,2890,123,181,1:oigroup>
+<oigroup:<oiref:java#Class#mats_model.MATSModel:oiref>=720,2220,200,958,1:oigroup>
+<oigroup:<oiref:java#Class#mats_view.MATSView:oiref>=1170,1670,200,1614,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSModel#importingNewModel:oiref>=880,3178,880,3228,970,3228,970,3138,920,3138:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSTask#owner:oiref>=199,2677,410,2680,410,2890:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSModel#whoAmI:oiref>=720,2980,473,2980:oigroup>
+<oigroup:<oiref:java#Class#mats_model.ModelEvent:oiref>=300,1850,121,149,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSSubproject#lnkMATSComponent:oiref>=280,2400,280,2180,245,2180:oigroup>
+<oigroup:<oiref:java#Extends#mats_model.MATSTask#mats_model.MATSComponent:oiref>=151,2350,151,2265:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_view.MATSView#model:oiref>=1170,2699,920,2699:oigroup>
+<oigroup:<oiref:java#Class#mats_model.MATSSubproject:oiref>=220,2400,200,229,1:oigroup>
+<oigroup:<oiref:java#Class#mats_model.MATSTask:oiref>=10,2350,189,334,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_view.MATSView#controller:oiref>=1170,2140,1117,2140:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_controller.MATSController#view:oiref>=1050,1790,1050,1730,1170,1730:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_controller.MATSController#model:oiref>=1040,2316,1040,2410,920,2410:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#mats_model.MATSUserDatabase#lnkMATSUser:oiref>=540,2823,540,2910,473,2910:oigroup>
+<oigroup:<oiref:java#Extends#mats_model.MATSSubproject#mats_model.MATSComponent:oiref>=232,2400,232,2265:oigroup>
+*/
+class __positions {
+}

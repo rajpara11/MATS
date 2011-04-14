@@ -1,0 +1,88 @@
+package id6m0gzfehuvfdrfehuvkdn;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#mats_tests.MATSViewTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSUserTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSProjectCollectionTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference7 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSComponentTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSControllerTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.AllTests:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSSubprojectTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference11 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSModelTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference12 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSTaskStateTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference13 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSTaskTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference14 {
+}
+/**
+@__ref <oiref:java#Class#mats_tests.MATSUserDatabaseTest:oiref><oihard>
+@__modelType reference 
+*/
+class reference15 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}

@@ -1,0 +1,82 @@
+package idgs9rgfehuvfdrfehuvkd2;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#mats_model.MATSComponent:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSModel:oiref><oihard>
+@__modelType reference 
+*/
+class reference16 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.ModelEvent:oiref><oihard>
+@__modelType reference 
+*/
+class reference17 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSProjectCollection:oiref><oihard>
+@__modelType reference 
+*/
+class reference18 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSTaskState:oiref><oihard>
+@__modelType reference 
+*/
+class reference19 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSSubproject:oiref><oihard>
+@__modelType reference 
+*/
+class reference20 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.ModelListener:oiref><oihard>
+@__modelType reference 
+*/
+class reference21 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSTask:oiref><oihard>
+@__modelType reference 
+*/
+class reference22 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSUser:oiref><oihard>
+@__modelType reference 
+*/
+class reference23 {
+}
+/**
+@__ref <oiref:java#Class#mats_model.MATSUserDatabase:oiref><oihard>
+@__modelType reference 
+*/
+class reference24 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}

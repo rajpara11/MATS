@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Iteration 1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>mats_model/User Stories for Project Users.doc</name>
+			<type>1</type>
+			<location>M:/SYSC 2101/Class Project/Iteration 1 Documentation/User Stories for Project Users.doc</location>
+		</link>
+	</linkedResources>
+</projectDescription>
